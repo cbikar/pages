@@ -1,2 +1,2 @@
 console.log(document.cookies);
-document.cookie = "name=test; SameSite=None; Secure";
+document.cookie = "test=test; SameSite=None; Secure";
