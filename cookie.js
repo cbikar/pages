@@ -1,2 +1,2 @@
 console.log(document.cookie);
-document.cookie = "test=test; domain=cbikar.github.io";
+document.cookie = "test=test; domain=.cbikar.github.io";
